@@ -1,0 +1,3 @@
+[submodule "bookers"]
+	path = bookers
+	url = git@github.com:fresino/bookers1.git

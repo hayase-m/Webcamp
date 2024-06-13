@@ -4,7 +4,7 @@
     },
     "extensions": {
         "@aws.profile": "",
-        "@aws.samcli.lambdaTimeout": 90000,
+        "@aws.samcli.lambdaTimeout": 1234,
         "@editor.acceptSuggestionOnEnter": "on",
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
@@ -45,5 +45,13 @@
     },
     "welcome": {
         "@first": true
+    },
+    "workspace": {
+        "@folders": [
+            {
+                "name": "bookers",
+                "path": "/bookers"
+            }
+        ]
     }
 }
