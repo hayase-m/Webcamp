@@ -55,6 +55,10 @@
             {
                 "name": "meshiterro",
                 "path": "/meshiterro"
+            },
+            {
+                "name": "bookers2",
+                "path": "/bookers2"
             }
         ]
     }
