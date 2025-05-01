@@ -3,7 +3,10 @@
 	url = git@github.com:fresino/bookers1.git
 [submodule "meshiterro"]
 	path = meshiterro
-	url = git@github.com:fresino/Bookers2.git
+	url = git@github.com:hayase-m/meshiterro.git
 [submodule "bookers2"]
 	path = bookers2
 	url = git@github.com:fresino/Bookers2.git
+[submodule "rev_meshiterro"]
+	path = rev_meshiterro
+	url = git@github.com:hayase-m/meshiterro.git
