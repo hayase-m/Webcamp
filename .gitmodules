@@ -7,6 +7,9 @@
 [submodule "bookers2"]
 	path = bookers2
 	url = git@github.com:fresino/Bookers2.git
-[submodule "rev_meshiterro"]
-	path = rev_meshiterro
+[submodule "Bookers2"]
+	path = Bookers2
+	url = https://github.com/hayase-m/Bookers2
+[submodule "meshiterro"]
+	path = meshiterro
 	url = git@github.com:hayase-m/meshiterro.git
