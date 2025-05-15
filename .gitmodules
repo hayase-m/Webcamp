@@ -1,12 +1,9 @@
 [submodule "bookers"]
 	path = bookers
 	url = git@github.com:fresino/bookers1.git
-<<<<<<< HEAD
 [submodule "meshiterro"]
 	path = meshiterro
 	url = git@github.com:hayase-m/meshiterro.git
-=======
->>>>>>> 3270f31 (update)
 [submodule "bookers2"]
 	path = bookers2
 	url = git@github.com:fresino/Bookers2.git
@@ -16,9 +13,6 @@
 [submodule "meshiterro"]
 	path = meshiterro
 	url = git@github.com:hayase-m/meshiterro.git
-<<<<<<< HEAD
 [submodule "Bookers1"]
 	path = Bookers1
 	url = git@github.com:hayase-m/Bookers1.git
-=======
->>>>>>> 3270f31 (update)
